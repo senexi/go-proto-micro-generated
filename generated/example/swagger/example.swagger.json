@@ -13,10 +13,6 @@
       "url": "https://github.com/senexi/go-proto-micro/blob/master/LICENSE"
     }
   },
-  "schemes": [
-    "http",
-    "https"
-  ],
   "consumes": [
     "application/json"
   ],
